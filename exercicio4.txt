@@ -1,0 +1,17 @@
+4-
+    a) O veículo mais próximo a cidade de Ribeirão Preto seria o caminhão de franca
+    
+    c)  Para o carro:
+        distância = velocidade x tempo
+        100 km = 110 km/h x tempo
+        tempo = 100 km / 110 km/h
+        tempo = 0,91 horas 
+
+        distância = velocidade x tempo
+        100 km = 80 km/h x tempo + 2 x 5 minutos
+        100 km = 80 km/h x tempo + 10 minutos
+        100 km = 80 km/h x tempo + 1/6 horas (convertendo os 10 minutos em horas)
+        100 km - 1/6 horas x 80 km/h = tempo
+        tempo = 1,17 horas
+
+        R: Portanto, quando eles se cruzarem na rodovia, o caminhão estará mais próximo de Ribeirão Preto, pois ainda precisará percorrer cerca de 17 km até chegar na cidade, enquanto o carro já terá percorrido toda a distância.

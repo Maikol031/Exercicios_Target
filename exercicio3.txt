@@ -1,0 +1,13 @@
+Exercício 3:
+a) A lógica é adicionar 2 ao número anterior. O próximo elemento é 9.
+
+b) A lógica é multiplicar o número anterior por 2. O próximo elemento é 128.
+
+c) A lógica é elevar o índice da sequência ao quadrado. O próximo elemento é 49.
+
+d) A lógica é elevar os números pares ao quadrado. O próximo elemento é 100.
+
+e) A lógica é a soma dos dois números anteriores. O próximo elemento é 13.
+
+f) A lógica é variável, pois não há uma sequência clara entre os números. O próximo elemento pode ser qualquer número que siga uma determinada regra não especificada. A próxima sequência poderia ser: 20, 21, 22, 23, 24, 25, 26.
+    A lógica por trás dessa sequência é que os números estão aumentando em uma progressão aritmética, onde a diferença entre cada número é variável. No caso da sequência dada, a diferença entre os primeiros dois números é 8, a diferença entre os próximos dois é 2, a diferença entre os próximos dois é 4 e a diferença entre os dois últimos é 1. A próxima diferença poderia ser 2 novamente, o que levaria a sequência a continuar em progressão aritmética comum.
